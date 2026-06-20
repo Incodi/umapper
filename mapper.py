@@ -1,23 +1,13 @@
-could I replace my youtube data analysis with this NN classifier (finished for my machine learning course): import os
-
+import os
 import json
-
 import re
-
 import numpy as np
-
 from sentence_transformers import SentenceTransformer
-
 from sklearn.cluster import KMeans
-
 import matplotlib.pyplot as plt
-
 import umap
-
 import lzma
-
 from lexicalrichness import LexicalRichness # For MTLD calculation
-
 import argparse
 
 
@@ -839,11 +829,9 @@ def main():
 
 
 if __name__ == "__main__":
-
     main()
 
 
-    # https://docs.google.com/presentation/d/1qVPeRS702XJhhXNa8sb5n5A405Ne0ZYNmy_2vy2bpHk/
 
 
     # Example command:
