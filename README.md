@@ -2,6 +2,8 @@
 
 A Python tool for analyzing and comparing the language used across YouTube channels. The program processes video transcripts, extracts linguistic and semantic features, and visualizes similarities between channels.
 
+Advanced version is coming soon as: https://github.com/Incodi/Centroids/
+
 ## What It Does
 
 The tool processes transcript data for selected YouTube channels and:
